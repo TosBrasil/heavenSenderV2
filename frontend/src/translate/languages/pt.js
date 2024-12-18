@@ -466,7 +466,7 @@ const messages = {
           quickMessages: "Respostas Rápidas",
           contacts: "Contatos",
           queues: "Filas & Chatbot",
-          tags: "Tags",
+          tags: "Etiqueta",
           administration: "Administração",
           companies: "Empresas",
           users: "Usuários",
