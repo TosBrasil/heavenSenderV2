@@ -2,7 +2,7 @@
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
-  "nomeEmpresa": "Heaven Sender",
+  "nomeEmpresa": "VA Power",
   "versionSystem": "1.0.1",
   "dependencies": {
     "@date-io/date-fns": "^2.16.0",
