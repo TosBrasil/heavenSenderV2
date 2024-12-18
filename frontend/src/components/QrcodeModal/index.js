@@ -67,7 +67,7 @@ const QrcodeModal = ({ open, onClose, whatsAppId }) => {
       <Paper elevation={0} style={{ display: "flex", alignItems: "center" }}>
         <div style={{ marginRight: "20px" }}>
           <Typography variant="h2" component="h2" color="textPrimary" gutterBottom style={{ fontFamily: "Montserrat", fontWeight: "bold", fontSize:"20px",}}>
-            Utilize o VA Power com seu WhatsApp:
+            Utilize o Heaven Sender com seu WhatsApp:
           </Typography>
           <Typography variant="body1" color="textPrimary" gutterBottom>
             1 - Abra o WhatsApp no seu celular
